@@ -1,0 +1,63 @@
+/* *{
+    background-color: black;
+    
+} */
+.heading{
+    color:white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    font: bold;
+    font-size: larger;
+    max-width: 100%;
+}
+.Elementry-childs{
+    background-color:black;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+/* .bimg{
+    display: flex;
+    position: fixed;
+    height: 120vh;
+    width: 100vw;
+    opacity: 0.3;
+}
+.bimg img{
+    height: 120vh;
+    width: 100vw;
+} */
+.subh{
+    color: #FBD757;
+    padding-left: 1.5%;
+    font-size: larger;
+    max-width: 80%;
+
+}
+.Intrest-p-s{
+    color: rgb(221, 84, 84) ;
+}
+.cont{
+    color: aliceblue;
+  font-size: larger;
+  text-align: justify;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  opacity: 1.5;
+  z-index: 1;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+.images-cf{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media only screen and (max-width: 720px){
+}
